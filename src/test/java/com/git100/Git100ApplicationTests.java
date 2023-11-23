@@ -12,6 +12,7 @@ class Git100ApplicationTests {
 
 	@Test
 	void newDummyMethd() {
+		System.out.println("From dummy branch");
 	}
 
 
