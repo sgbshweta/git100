@@ -10,4 +10,9 @@ class Git100ApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void newDummyMethd() {
+	}
+
+
 }
